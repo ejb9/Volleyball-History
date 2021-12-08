@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Volleyball-History/static/css/main.bab0b925.chunk.css",
-    "main.js": "/Volleyball-History/static/js/main.54737df2.chunk.js",
-    "main.js.map": "/Volleyball-History/static/js/main.54737df2.chunk.js.map",
-    "runtime-main.js": "/Volleyball-History/static/js/runtime-main.00ba373b.js",
-    "runtime-main.js.map": "/Volleyball-History/static/js/runtime-main.00ba373b.js.map",
-    "static/js/2.c43beba9.chunk.js": "/Volleyball-History/static/js/2.c43beba9.chunk.js",
-    "static/js/2.c43beba9.chunk.js.map": "/Volleyball-History/static/js/2.c43beba9.chunk.js.map",
-    "static/js/3.fe260754.chunk.js": "/Volleyball-History/static/js/3.fe260754.chunk.js",
-    "static/js/3.fe260754.chunk.js.map": "/Volleyball-History/static/js/3.fe260754.chunk.js.map",
-    "index.html": "/Volleyball-History/index.html",
-    "static/css/main.bab0b925.chunk.css.map": "/Volleyball-History/static/css/main.bab0b925.chunk.css.map",
-    "static/js/2.c43beba9.chunk.js.LICENSE.txt": "/Volleyball-History/static/js/2.c43beba9.chunk.js.LICENSE.txt"
+    "main.css": "/collegevbhistory.com/static/css/main.bab0b925.chunk.css",
+    "main.js": "/collegevbhistory.com/static/js/main.cb56df95.chunk.js",
+    "main.js.map": "/collegevbhistory.com/static/js/main.cb56df95.chunk.js.map",
+    "runtime-main.js": "/collegevbhistory.com/static/js/runtime-main.0df99fb0.js",
+    "runtime-main.js.map": "/collegevbhistory.com/static/js/runtime-main.0df99fb0.js.map",
+    "static/js/2.c43beba9.chunk.js": "/collegevbhistory.com/static/js/2.c43beba9.chunk.js",
+    "static/js/2.c43beba9.chunk.js.map": "/collegevbhistory.com/static/js/2.c43beba9.chunk.js.map",
+    "static/js/3.fe260754.chunk.js": "/collegevbhistory.com/static/js/3.fe260754.chunk.js",
+    "static/js/3.fe260754.chunk.js.map": "/collegevbhistory.com/static/js/3.fe260754.chunk.js.map",
+    "index.html": "/collegevbhistory.com/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/collegevbhistory.com/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.c43beba9.chunk.js.LICENSE.txt": "/collegevbhistory.com/static/js/2.c43beba9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.00ba373b.js",
+    "static/js/runtime-main.0df99fb0.js",
     "static/js/2.c43beba9.chunk.js",
     "static/css/main.bab0b925.chunk.css",
-    "static/js/main.54737df2.chunk.js"
+    "static/js/main.cb56df95.chunk.js"
   ]
 }
